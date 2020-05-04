@@ -1,0 +1,15 @@
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Lab6\Lab6\Lab6\bin\Debug\netstandard2.0\Lab6.deps.json
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Lab6\Lab6\Lab6\bin\Debug\netstandard2.0\Lab6.dll
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Lab6\Lab6\Lab6\bin\Debug\netstandard2.0\Lab6.pdb
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\Lab6.csprojAssemblyReference.cache
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\Lab6.csproj.CoreCompileInputs.cache
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\Lab6.AssemblyInfoInputs.cache
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\Lab6.AssemblyInfo.cs
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\XamlC.stamp
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\Lab6.dll
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\Lab6.pdb
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\ListViewCode.xaml.g.cs
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\ListViewDemo.xaml.g.cs
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Lab6\Lab6\Lab6\obj\Debug\netstandard2.0\ListViewSource.xaml.g.cs
